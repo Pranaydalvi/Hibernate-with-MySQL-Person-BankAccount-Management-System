@@ -4,18 +4,18 @@ This project demonstrates the implementation of Hibernate with MySQL in a Java a
 
 ## Project Structure
 
-src
-├── com
-│ ├── Controller
-│ │ └── Controller.java
-│ ├── Model
-│ │ ├── BankAccount.java
-│ │ └── Person.java
-│ ├── Service
-│ │ ├── ServiceImplementation.java
-│ │ └── ServiceInterface.java
-│ └── Util
-│ └── hibernateUtil.java
+- src
+- ├── com
+- │ ├── Controller
+- │ │ └── Controller.java
+- │ ├── Model
+- │ │ ├── BankAccount.java
+- │ │ └── Person.java
+- │ ├── Service
+- │ │ ├── ServiceImplementation.java
+- │ │ └── ServiceInterface.java
+- │ └── Util
+- │ └── hibernateUtil.java
 
 
 ## Technologies Used
